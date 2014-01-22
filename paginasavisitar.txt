@@ -1,0 +1,52 @@
+MUY INTERESANTE ENLACES:
+
+gRADIENTES CSS
+http://www.colorzilla.com/gradient-editor/
+FUENTES
+http://fontawesome.io/
+GENERADOR CSS
+http://css3gen.com/
+
+CDN PARA JS
+http://cdnjs.com/
+
+GIT
+http://www.montesinos.org.es/search/label/git
+
+HMTL BOILERPLATE 
+http://html5boilerplate.com/mobile/
+
+LIBRO GIT
+http://librosweb.es/pro_git/
+
+
+GENERADOR CSS
+http://daneden.github.io/animate.css/
+
+
+COLORES
+http://flatuicolors.com/
+
+
+CODE ACADEMY
+http://www.codecademy.com/es
+
+
+BRACKET PARA PROGRAMAR
+http://brackets.io/
+
+PROBAR  DISEÑOS EN MOVIL Y DEMAS
+http://www.dimensionsapp.com/a/
+
+
+NODE .JS
+http://uno-de-piera.com/chat-con-node-js-express-y-socketio/
+
+
+CODEPEN DE LOS 100 MEJORES PROYECTOS
+http://codepen.io/2013/popular
+
+TYMPANUS
+http://tympanus.net/codrops/
+
+
