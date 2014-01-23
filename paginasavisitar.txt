@@ -3,6 +3,9 @@ MUY INTERESANTE ENLACES:
 gRADIENTES CSS
 http://www.colorzilla.com/gradient-editor/
 
+color en css
+http://www.colorschemer.com/colorpix_info.php
+
 FUENTES PARA WEB
 http://www.fontsquirrel.com/
 http://www.dafonts.com
