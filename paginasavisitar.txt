@@ -2,10 +2,17 @@ MUY INTERESANTE ENLACES:
 
 gRADIENTES CSS
 http://www.colorzilla.com/gradient-editor/
+
+FUENTES PARA WEB
+http://www.fontsquirrel.com/
+http://www.dafonts.com
+
 FUENTES
 http://fontawesome.io/
+
 GENERADOR CSS
 http://css3gen.com/
+
 
 CDN PARA JS
 http://cdnjs.com/
