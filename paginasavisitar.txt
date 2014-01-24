@@ -12,6 +12,12 @@ http://www.dafonts.com
 
 FUENTES
 http://fontawesome.io/
+www.fontsquirrel.com
+google.com/fonts
+dafonts.com
+
+ICONOS
+ICOMOON.IO
 
 GENERADOR CSS
 http://css3gen.com/

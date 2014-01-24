@@ -2,65 +2,185 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8" />
-	<meta description="Proyecto de la primera generacion del 2014" />
-	<link rel="stylesheet" type="text/css" href="normalize.css">
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="estilos.css"/>
-	<title>Puls1024: Counidad Online de Gente</title>
+	<meta name="description" content="Proyecto de la primera generación del 2014 del curso de diseño web online" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum scale=1"/>
+	<title>Puls2014: Comunidad online de gente atractiva</title>
+	<link rel="stylesheet" href="normalize.css" />
+	<link rel="stylesheet" href="estilos.css" />
 </head>
-	<body>
-		<header>	
-			<figure id="logo">
-				<img src="logo.jpg"/>
+<body>
+	<header>
+		<figure id="logo">
+			<img src="logo.png" />
+		</figure>
+		<h1>Puls2014: Comunidad de personas atractivas y millonarias</h1>
+		<figure id="avatar">
+			<img src="avatar.jpg" />
+		</figure>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#">Python</a></li>
+			<li><a href="#">HTML5</a></li>
+			<li><a href="#">Javascript</a></li>
+			<li><a href="#">CSS3</a></li>
+			<li><a href="#">Django</a></li>
+			<li id="publicar_nav">
+				<a href="#" id="icon-pluma">Publicar</a>
+			</li>
+		</ul>
+	</nav>
+	<section id="contenido">
+		<article class="item">
+			<figure class="imagen_item">
+				<img src="imagen.jpg" />
 			</figure>
-			<h1  id="titulo_header">Puls2014 comunidad de gente atractiva y millonaria</h1>
-			<figure id="avatar">
-				<img src="avatar.jpg">
-				<figcaption>
-					*
-				</figcaption>
+			<h2 class="titulo_item">
+				<a href="#">Aspen, un framework para Python</a>
+			</h2>
+			<div class="autor_item">
+				Por <a href="#">Maika Gonzalez</a>
+			</div>
+			<div class="datos_item">
+				<a href="#" class="tag_item">Pony</a>
+				<span class="fecha_item">
+					Hace <strong>5</strong> min
+				</span>
+			</div>
+			<div class="votacion">
+				<a href="#" class="up icon-flecha_arriba"></a>
+				696
+				<a href="#" class="down icon-flecha_abajo"></a>
+				<a href="#" class="comentarios_item">3</a>
+				<a href="#" class="guardar_item icon-estrella"></a>
+			</div>
+		</article>
+		<article class="item">
+			<figure class="imagen_item">
+				<img src="imagen.jpg" />
 			</figure>
-		</header>
-			<nav>
-				<ul>
-					<li><a href="#" id="flechita_nav">*</a></li>
-					<li><a href="#">Python</a></li>
-					<li><a href="#">HTML6</a></li>
-					<li><a href="#">PHP</a></li>
-					<li><a href="#">CSS3</a></li>
-					<li><a href="#">Django</a></li>
-					<li id="publicar_nav"><a href="#">Publicar</a></li>
-				</ul>
-			</nav>
-			<section id="contenido">
-				<article class="item"> 
-					<figure class="imagen_item">
-						<img src="imagen.jpg">
-				 	</figure>
-				 	<h2 class="titulo_item">
-				 		<a href="#">Una mirada a Leap Motion el control Minoruty report</a>
-				 	</h2>
-				 	<p class="autor_item">
-				 		Por <a href="#"> Maika Gonzalez</a>
-				 	</p>
-				 	<p class="datos_item">
-				 		<a href="#" class="tag_item">Categoria</a>
-				 		<span class="fecha_item">Hace <strong>5</strong>min</span>
-				 		<a href="#" class="comentarios_item">3</a>
-				 		<a href="#" class="guardar_item">*+ </a>
-				 	</p>
-				 	<p class="votacion"> 	
-				 		<a href="#" class="up">UP</a>
-				 		695
-				 		<a href="#" class="down">DOWN</a>
-				 	</p>
-				</article>
-
-			</section>
-			<footer>
-			<p>
-				<strong>Powered by Pony</strong> </p>
-				<p>mejorando.la 2014</p>
-			</footer>
-		</body>
+			<h2 class="titulo_item">
+				<a href="#">Top 5 de herramientas para realizar SEO</a>
+			</h2>
+			<div class="autor_item">
+				Por <a href="#">Maika Gonzalez</a>
+			</div>
+			<div class="datos_item">
+				<a href="#" class="tag_item">Pony</a>
+				<span class="fecha_item">
+					Hace <strong>5</strong> min
+				</span>
+			</div>
+			<div class="votacion">
+				<a href="#" class="up icon-flecha_arriba"></a>
+				696
+				<a href="#" class="down icon-flecha_abajo"></a>
+				<a href="#" class="comentarios_item">3</a>
+				<a href="#" class="guardar_item icon-estrella"></a>
+			</div>
+		</article>
+		<article class="item">
+			<figure class="imagen_item">
+				<img src="imagen.jpg" />
+			</figure>
+			<h2 class="titulo_item">
+				<a href="#">Máscara de recorte en humo con After Effects</a>
+			</h2>
+			<div class="autor_item">
+				Por <a href="#">Maika Gonzalez</a>
+			</div>
+			<div class="datos_item">
+				<a href="#" class="tag_item">Pony</a>
+				<span class="fecha_item">
+					Hace <strong>5</strong> min
+				</span>
+			</div>
+			<div class="votacion">
+				<a href="#" class="up icon-flecha_arriba"></a>
+				696
+				<a href="#" class="down icon-flecha_abajo"></a>
+				<a href="#" class="comentarios_item">3</a>
+				<a href="#" class="guardar_item icon-estrella"></a>
+			</div>
+		</article>
+		<article class="item">
+			<figure class="imagen_item">
+				<img src="imagen.jpg" />
+			</figure>
+			<h2 class="titulo_item">
+				<a href="#">Vagrant, crea entornos de desarrollo virtualizados</a>
+			</h2>
+			<div class="autor_item">
+				Por <a href="#">Maika Gonzalez</a>
+			</div>
+			<div class="datos_item">
+				<a href="#" class="tag_item">Pony</a>
+				<span class="fecha_item">
+					Hace <strong>5</strong> min
+				</span>
+			</div>
+			<div class="votacion">
+				<a href="#" class="up icon-flecha_arriba"></a>
+				696
+				<a href="#" class="down icon-flecha_abajo"></a>
+				<a href="#" class="comentarios_item">3</a>
+				<a href="#" class="guardar_item icon-estrella"></a>
+			</div>
+		</article>
+		<article class="item">
+			<figure class="imagen_item">
+				<img src="imagen.jpg" />
+			</figure>
+			<h2 class="titulo_item">
+				<a href="#">Automatizar tareas con Nginx y Fabric</a>
+			</h2>
+			<div class="autor_item">
+				Por <a href="#">Maika Gonzalez</a>
+			</div>
+			<div class="datos_item">
+				<a href="#" class="tag_item">Pony</a>
+				<span class="fecha_item">
+					Hace <strong>5</strong> min
+				</span>
+			</div>
+			<div class="votacion">
+				<a href="#" class="up icon-flecha_arriba"></a>
+				696
+				<a href="#" class="down icon-flecha_abajo"></a>
+				<a href="#" class="comentarios_item">3</a>
+				<a href="#" class="guardar_item icon-estrella"></a>
+			</div>
+		</article>
+		<article class="item">
+			<figure class="imagen_item">
+				<img src="imagen.jpg" />
+			</figure>
+			<h2 class="titulo_item">
+				<a href="#">Dominio virtual para Laravel en Ubuntu</a>
+			</h2>
+			<div class="autor_item">
+				Por <a href="#">Maika Gonzalez</a>
+			</div>
+			<div class="datos_item">
+				<a href="#" class="tag_item">Pony</a>
+				<span class="fecha_item">
+					Hace <strong>5</strong> min
+				</span>
+			</div>
+			<div class="votacion">
+				<a href="#" class="up icon-flecha_arriba"></a>
+				696
+				<a href="#" class="down icon-flecha_abajo"></a>
+				<a href="#" class="comentarios_item">3</a>
+				<a href="#" class="guardar_item icon-estrella"></a>
+			</div>
+		</article>
+	</section>
+	<footer>
+		<p>
+			<strong>Powered by Pony</strong>
+		</p>
+		<p>mejorando.la 2013</p>
+	</footer>
+</body>
 </html>
