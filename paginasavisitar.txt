@@ -1,59 +1,61 @@
 MUY INTERESANTE ENLACES:
 
-gRADIENTES CSS
-http://www.colorzilla.com/gradient-editor/
-
-color en css
-http://www.colorschemer.com/colorpix_info.php
-
-FUENTES PARA WEB
-http://www.fontsquirrel.com/
-http://www.dafonts.com
-
 FUENTES
 http://fontawesome.io/
 www.fontsquirrel.com
 google.com/fonts
 dafonts.com
+http://www.fontsquirrel.com/
+http://www.dafonts.com
+
+SUBLIME
+http://www.youtube.com/playlist?list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4
+
+MUY BUENO CON TRUCOS PARA TODOS LOS LENGUAJES
+http://overapi.com/
+
 
 ICONOS
-ICOMOON.IO
+HTTP://ICOMOON.IO
+http://www.iconarchive.com/
+awesomefont.com
 
 GENERADOR CSS
 http://css3gen.com/
+http://daneden.github.io/animate.css/
+http://www.css3factory.com/linear-gradients/
+#Generador de botones
+http://css-tricks.com/examples/ButtonMaker/
 
+JQUERY
+http://talksweb.blogspot.com.es/2013/11/50-useful-jquery-plugins.html#.UuerhtK0pph
 
 CDN PARA JS
 http://cdnjs.com/
 
+ESQUEMAS DE PAGINAS Y CSS
+http://www.jqueryrain.com/2014/01/css-responsive-framework-boilerplates/
+
 GIT
 http://www.montesinos.org.es/search/label/git
+http://rogerdudler.github.io/git-guide/index.es.html
+http://librosweb.es/pro_git/
 
 HMTL BOILERPLATE 
 http://html5boilerplate.com/mobile/
 
-LIBRO GIT
-http://librosweb.es/pro_git/
-
-
-GENERADOR CSS
-http://daneden.github.io/animate.css/
-
-
 COLORES
+PARA SABER COMBINAR COLORES
+http://pltts.me/
 http://flatuicolors.com/
-
+http://www.colorschemer.com/colorpix_info.php
+http://www.colorzilla.com/gradient-editor/
 
 CODE ACADEMY
 http://www.codecademy.com/es
 
-
 BRACKET PARA PROGRAMAR
 http://brackets.io/
-
-PROBAR  DISEÑOS EN MOVIL Y DEMAS
-http://www.dimensionsapp.com/a/
-
 
 NODE .JS
 http://uno-de-piera.com/chat-con-node-js-express-y-socketio/
@@ -65,5 +67,5 @@ http://codepen.io/2013/popular
 TYMPANUS
 http://tympanus.net/codrops/
 
-CSS GRADIENT
-http://www.css3factory.com/linear-gradients/
+
+
