@@ -1,5 +1,7 @@
 MUY INTERESANTE ENLACES:
 
+https://cursos.mejorando.la/cursos/diseno-web-online/material/video-clase-4/
+
 FUENTES
 http://fontawesome.io/
 www.fontsquirrel.com
@@ -28,6 +30,7 @@ http://www.css3factory.com/linear-gradients/
 http://css-tricks.com/examples/ButtonMaker/
 
 JQUERY
+http://www.mmfilesi.com/blog/series/jquery-desde-cero/
 http://talksweb.blogspot.com.es/2013/11/50-useful-jquery-plugins.html#.UuerhtK0pph
 
 CDN PARA JS
@@ -35,6 +38,7 @@ http://cdnjs.com/
 
 ESQUEMAS DE PAGINAS Y CSS
 http://www.jqueryrain.com/2014/01/css-responsive-framework-boilerplates/
+http://minimalmonkey.com/welcome-minimal-monkey/
 
 GIT
 http://www.montesinos.org.es/search/label/git
